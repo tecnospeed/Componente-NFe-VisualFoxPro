@@ -1,4 +1,4 @@
-﻿# Componente NFe
+﻿# Componente NFe em Visual Fox Pro
 
 A NFe TecnoSpeed é uma solução pronta para ser integrada ao seu software, que realiza todas as etapas de emissão da Nota Fiscal Eletrônica, desde a geração do XML até a impressão do DANFe.
 
